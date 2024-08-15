@@ -4,3 +4,23 @@
     justify-content: start;
     align-items: center;
 }
+
+.proyecto {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+#proyecto-1 {
+    background-image: url('pagina.jpg');
+}
+
+#proyecto-2 {
+    background-image: url('google.jpg');
+}
+
+#proyecto-3 {
+    background-image: url('portafolioFer.jpg');
+}
+
+.text-shadow-1 { text-shadow: 1px -1px 8px rgba(0, 0, 0, 1); }
