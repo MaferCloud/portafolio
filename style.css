@@ -1,10 +1,22 @@
+header {
+    position: fixed; 
+    top: 0; 
+    width: 100%;
+    z-index: 1000;
+    background-color:bg-info;
+}
+body {
+    padding-top: 56px; /* Agrega un espacio en la parte superior del contenido para evitar que quede oculto debajo del encabezado */
+}
 #presentacion {
     height: 88vh;
     display: flex;
     justify-content: start;
     align-items: center;
 }
-
+h5 {
+    text-align: center;
+}
 .proyecto {
     background-repeat: no-repeat;
     background-position: center;
@@ -22,5 +34,7 @@
 #proyecto-3 {
     background-image: url('portafolioFer.jpg');
 }
-
+.nav li {
+    margin: 0 5px;
+}
 .text-shadow-1 { text-shadow: 1px -1px 8px rgba(0, 0, 0, 1); }
