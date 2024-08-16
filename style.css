@@ -51,3 +51,14 @@ h5 {
     font-style: normal;
   }
   
+  #habilidades {
+    scroll-margin-top: 20px;
+}
+
+#proyectos {
+    scroll-margin-top: 20px;
+}
+
+#testimonios {
+    scroll-margin-top: 20px;
+}
