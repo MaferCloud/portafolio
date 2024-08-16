@@ -6,7 +6,7 @@ Fue desarrollado con HTML, CSS y JS con el uso del framework de UI, Bootstrap ut
 
 La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye la presentación de la autora del proyecto.
 
-[Proyecto Desplegado (https://www.linkedin.com/in/tu_usuario)](https://www.linkedin.com/in/tu_usuario)
+[Proyecto Desplegado (https://www.linkedin.com/in/maría-fernanda-magaña-266818323)](https://www.linkedin.com/in/maría-fernanda-magaña-266818323)
 
 ## Secciones de mi sitio
 
@@ -26,4 +26,4 @@ La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye
 
 ---
 
-Desarrollado con 💖 por [Fernanda](https://www.linkedin.com/in/tu_usuario) en [TECHNOLOCHICAS PRO](https://tecnolochicas.mx/)
+Desarrollado con 💖 por [Fernanda](https://www.linkedin.com/in/maría-fernanda-magaña-266818323) en [TECHNOLOCHICAS PRO](https://tecnolochicas.mx/)

@@ -9,7 +9,7 @@ body {
     padding-top: 56px; /* Agrega un espacio en la parte superior del contenido para evitar que quede oculto debajo del encabezado */
 }
 #presentacion {
-    height: 88vh;
+    height: 60vh;
     display: flex;
     justify-content: start;
     align-items: center;
@@ -38,3 +38,16 @@ h5 {
     margin: 0 5px;
 }
 .text-shadow-1 { text-shadow: 1px -1px 8px rgba(0, 0, 0, 1); }
+
+.quattrocento-regular {
+    font-family: "Quattrocento", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .quattrocento-bold {
+    font-family: "Quattrocento", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
